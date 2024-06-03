@@ -83,9 +83,9 @@ function DongThoiGian() {
         )}
         {startTyping && (
           <>
-            {/* <audio id="player" autoPlay loop>
-              <source src="../music/music.mp3" type="audio/mp3" />
-            </audio> */}
+             <audio id="player" autoPlay loop>
+        <source src="../music/music.mp3" type="audio/mp3" />
+      </audio>
             <Stack direction="row" spacing={2}>
               <Stack
                 sx={{
