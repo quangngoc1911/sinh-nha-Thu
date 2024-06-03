@@ -24,9 +24,9 @@ function SinhNhat() {
       }}
     >
       {" "}
-      {/* <audio id="player" autoPlay loop>
+     <audio id="player" autoPlay loop>
         <source src="../music/music.mp3" type="audio/mp3" />
-      </audio> */}
+      </audio>
       <img src="../image/MyAvatar.jpg" alt="" style={style} />
     </div>
   );
